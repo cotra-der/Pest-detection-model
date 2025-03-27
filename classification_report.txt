@@ -1,0 +1,28 @@
+                              precision    recall  f1-score   support
+
+     Asian longhorned beetle       1.00      1.00      1.00         2
+        Asian tiger mosquito       1.00      1.00      1.00         5
+           Black vine weevil       1.00      1.00      1.00         2
+                   Butterfly       1.00      1.00      1.00         2
+         Caribbean fruit fly       1.00      1.00      1.00         1
+       Diaprepes root weevil       1.00      1.00      1.00         7
+                 Dung bettle       1.00      1.00      1.00         4
+Eastern subterranean termite       1.00      1.00      1.00         4
+                   Fire ants       0.67      1.00      0.80         2
+             India meal moth       1.00      1.00      1.00         2
+                 June beetle       1.00      1.00      1.00         1
+         Mangolia root borer       1.00      1.00      1.00         1
+     Mediterranean fruit fly       1.00      1.00      1.00         4
+                Phorid flies       1.00      1.00      1.00         1
+        Queensland fruit fly       1.00      1.00      1.00         1
+                 Rice weevil       1.00      1.00      1.00         6
+                    Termites       1.00      1.00      1.00         2
+         braconid parasitoid       1.00      1.00      1.00         1
+                   earthworm       1.00      1.00      1.00         1
+                mole cricket       1.00      1.00      1.00         3
+                      sawfly       1.00      0.40      0.57         5
+                 white grubs       0.60      1.00      0.75         3
+
+                    accuracy                           0.95        60
+                   macro avg       0.97      0.97      0.96        60
+                weighted avg       0.97      0.95      0.95        60
