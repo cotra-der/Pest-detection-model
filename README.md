@@ -7,7 +7,6 @@ A machine learning-based system for detecting and identifying agricultural pests
 - **Real-time Audio Analysis**: Process and analyze audio files in real-time
 - **Interactive GUI**: Modern, colorful interface with visual feedback
 - **Multi-species Detection**: Identify multiple pest species including:
-  - Asian tiger mosquito
   - Caribbean fruit fly
   - Fire ants
   - Termites
