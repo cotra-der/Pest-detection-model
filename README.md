@@ -2,6 +2,9 @@
 
 A machine learning-based system for detecting and identifying agricultural pests using sound frequency analysis. The system uses deep learning to analyze audio recordings and identify various pest species based on their characteristic sound patterns.
 
+## MVP Link
+https://huggingface.co/spaces/Heymun/LocatorV1.2
+
 ## Features
 
 - **Real-time Audio Analysis**: Process and analyze audio files in real-time
